@@ -1,2 +1,2 @@
-Here are some machine learning projects i am working on.
-They are based on a book by Aurélien Géron.
+This repository contains notebooks that explore concepts and methods used in machine learning.
+They are based on a book by Aurélien Géron(Hands on machine learning).
